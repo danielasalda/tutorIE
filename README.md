@@ -24,9 +24,14 @@ After selcting the tutor, the program will ask for some of the user's basic info
 # About the code
 The program was created using dictionaries and object oriented programming
 # Creators
-Daniela Saldarriaga
-Elard Meier
-Noah Feiger
-Sofia Martinez
-Tomas Ploquin
-Valeria Lopez
+  Daniela Saldarriaga
+  
+  Elard Meier
+  
+  Noah Feiger
+  
+  Sofia Martinez
+  
+  Tomas Ploquin
+  
+  Valeria Lopez
