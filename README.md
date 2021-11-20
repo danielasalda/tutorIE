@@ -23,3 +23,10 @@ After selcting the tutor, the program will ask for some of the user's basic info
   - Output : The user will be shown a brief summary of all their information and a confirmationo message thelling them that the information has correctly been sent   and the tutor will be in contact with them
 # About the code
 The program was created using dictionaries and object oriented programming
+# Creators
+Daniela Saldarriaga
+Elard Meier
+Noah Feiger
+Sofia Martinez
+Tomas Ploquin
+Valeria Lopez
