@@ -11,12 +11,12 @@ When accesing the platform, the program will first show a numbered list of all t
   - Output : The user will recieve a message confirming the degree they have selected. 
 
 After the user selects the degree, the program will show a list of all its corresponding courses for the first year of the degree -> 
-  - User input : The user will be asked to write the course they need help with. 
+  - User input : The user will be asked to write the number corresponding to the course they need help with. Using input validation, the system will not allow the user to put a value that is not an option. The user will be asked to try again. 
   - Output : The user will be directed to the next selection. 
 
 After selcting the course, the program will show all the tutors available for teaching that specific course -> 
   - Each option will provide the tutor's name, degree, year, and GPA. 
-  - User input : The user will be asked to select the number corresponding to the tutor they want. 
+  - User input : The user will be asked to select the number corresponding to the tutor they want. Using input validation, the system will not allow the user to put a value that is not an option. The user will be asked to try again.
   - Output : The user will recieve a confirmation message stating the tutor that they have choosen and will then be directed to the next steps in order to contact their chosen tutor. 
 
 After selcting the tutor, the program will ask for some of the user's basic information ->
